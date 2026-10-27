@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Strategic-Sourcing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Strategic-Sourcing?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Strategic-Sourcing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Strategic-Sourcing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Sourcing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Strategic-Sourcing?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Sourcing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Strategic-Sourcing/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -68,79 +68,79 @@ The table below compiles leading strategic sourcing and spend management SaaS pl
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source repositories provide tools, frameworks, and engines for RFQ automation, reverse auctions, spend analysis, and public/private tender matching. Sorted in descending order by **GitHub Star Count**.
+The following open-source repositories provide tools, frameworks, and engines for RFQ automation, reverse auctions, spend analysis, and public/private tender matching. Sorted in descending order by **GitHub Stars_Count**.
 
-### 1. **[BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro)** [![GitHub stars](https://img.shields.io/github/stars/guangshu100/BidMaster-Pro?style=social&color=white)](https://github.com/guangshu100/BidMaster-Pro/stargazers)
+### 1. **[BidMaster-Pro](https://github.com/guangshu100/BidMaster-Pro)** [![GitHub_Stars](https://img.shields.io/github/stars/guangshu100/BidMaster-Pro?style=social&color=white)](https://github.com/guangshu100/BidMaster-Pro/stargazers)
 * **Focus:** Full-process intelligent tender & bidding AI agent.
 * **Tech Stack:** Python, RAG Knowledge Base, OCR extraction, Multi-LLM switching.
 * **Capabilities:** Automates tender document generation, RFP interpretation, 21-point automated compliance checking, commercial opportunity discovery, and document formatting directly into deliverable DOCX formats.
 
-### 2. **[Open Contracting Data Standard (OCDS)](https://github.com/open-contracting/standard)** [![GitHub stars](https://img.shields.io/github/stars/open-contracting/standard?style=social&color=white)](https://github.com/open-contracting/standard/stargazers)
+### 2. **[Open Contracting Data Standard (OCDS)](https://github.com/open-contracting/standard)** [![GitHub_Stars](https://img.shields.io/github/stars/open-contracting/standard?style=social&color=white)](https://github.com/open-contracting/standard/stargazers)
 * **Focus:** Global standard schemas for public and enterprise procurement transparency.
 * **Tech Stack:** JSON Schema, Python.
 * **Capabilities:** Standardized data model used internationally to publish structured procurement data across all stages: planning, tender (RFQ/RFP), bid evaluation, contract awards, and ongoing implementation.
 
-### 3. **[ForgeFlow](https://github.com/JayleeBot/ForgeFlow)** [![GitHub stars](https://img.shields.io/github/stars/JayleeBot/ForgeFlow?style=social&color=white)](https://github.com/JayleeBot/ForgeFlow/stargazers)
+### 3. **[ForgeFlow](https://github.com/JayleeBot/ForgeFlow)** [![GitHub_Stars](https://img.shields.io/github/stars/JayleeBot/ForgeFlow?style=social&color=white)](https://github.com/JayleeBot/ForgeFlow/stargazers)
 * **Focus:** AI email agent for procurement quote management.
 * **Tech Stack:** Python, AI Agents, IMAP/SMTP parser.
 * **Capabilities:** Listens to incoming vendor quotation emails, parses unstructured price quotes, extracts line-item pricing and delivery dates, and structures data into procurement comparison matrices.
 
-### 4. **[1688-cli](https://github.com/superjack2050/1688-cli)** [![GitHub stars](https://img.shields.io/github/stars/superjack2050/1688-cli?style=social&color=white)](https://github.com/superjack2050/1688-cli/stargazers)
+### 4. **[1688-cli](https://github.com/superjack2050/1688-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/superjack2050/1688-cli?style=social&color=white)](https://github.com/superjack2050/1688-cli/stargazers)
 * **Focus:** AI-agent-friendly command-line tool for wholesale product sourcing.
 * **Tech Stack:** Node.js, CLI, REST API.
 * **Capabilities:** Automates product research, supplier evaluation, RFQ inquiries, price benchmarking, and order tracking from global wholesale supply chains.
 
-### 5. **[OpenProcurement API](https://github.com/openprocurement/openprocurement.api)** [![GitHub stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers)
+### 5. **[OpenProcurement API](https://github.com/openprocurement/openprocurement.api)** [![GitHub_Stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers)
 * **Focus:** Core electronic procurement engine powering national-scale procurement (Prozorro).
 * **Tech Stack:** Python, Pyramid, CouchDB.
 * **Capabilities:** Full-lifecycle procurement datastore and RESTful API managing tender announcements, electronic bid submissions, qualification checks, bid evaluation, award decisions, and contract tracking.
 
-### 6. **[Open-Tender-Watch](https://github.com/bit-of-a-shambles/open-tender-watch)** [![GitHub stars](https://img.shields.io/github/stars/bit-of-a-shambles/open-tender-watch?style=social&color=white)](https://github.com/bit-of-a-shambles/open-tender-watch/stargazers)
+### 6. **[Open-Tender-Watch](https://github.com/bit-of-a-shambles/open-tender-watch)** [![GitHub_Stars](https://img.shields.io/github/stars/bit-of-a-shambles/open-tender-watch?style=social&color=white)](https://github.com/bit-of-a-shambles/open-tender-watch/stargazers)
 * **Focus:** Procurement monitoring and corruption risk intelligence.
 * **Tech Stack:** Ruby on Rails 8, PostgreSQL.
 * **Capabilities:** Monitors public and private procurement tenders across EU databases to identify corruption risk patterns, collusive bidding indicators, single-bidder red flags, and anomalous pricing.
 
-### 7. **[eForms-SDK](https://github.com/OP-TED/eForms-SDK)** [![GitHub stars](https://img.shields.io/github/stars/OP-TED/eForms-SDK?style=social&color=white)](https://github.com/OP-TED/eForms-SDK/stargazers)
+### 7. **[eForms-SDK](https://github.com/OP-TED/eForms-SDK)** [![GitHub_Stars](https://img.shields.io/github/stars/OP-TED/eForms-SDK?style=social&color=white)](https://github.com/OP-TED/eForms-SDK/stargazers)
 * **Focus:** European Union digital notification standard for public procurement procedures.
 * **Tech Stack:** XML Schema, Schematron, JSON.
 * **Capabilities:** Provides schemas, business rules, and SDK toolkits to construct, validate, and publish standard public tender notices and contract award criteria across the European economic area.
 
-### 8. **[Reverse-Auction-Guide](https://github.com/mountainview8868/reverse-auction-guide)** [![GitHub stars](https://img.shields.io/github/stars/mountainview8868/reverse-auction-guide?style=social&color=white)](https://github.com/mountainview8868/reverse-auction-guide/stargazers)
+### 8. **[Reverse-Auction-Guide](https://github.com/mountainview8868/reverse-auction-guide)** [![GitHub_Stars](https://img.shields.io/github/stars/mountainview8868/reverse-auction-guide?style=social&color=white)](https://github.com/mountainview8868/reverse-auction-guide/stargazers)
 * **Focus:** Architectural blueprint for real-time reverse auction engines.
 * **Tech Stack:** Architecture Specifications, Markdown, Dynamic Form Samples.
 * **Capabilities:** Reference architectures and integration guides for deploying real-time reverse auction mechanisms, bidder confidentiality rules, dynamic time extensions, and automated price discovery.
 
-### 9. **[OpenProcurement Auction](https://github.com/openprocurement/openprocurement.auction)** [![GitHub stars](https://img.shields.io/github/stars/openprocurement/openprocurement.auction?style=social&color=white)](https://github.com/openprocurement/openprocurement.auction/stargazers)
+### 9. **[OpenProcurement Auction](https://github.com/openprocurement/openprocurement.auction)** [![GitHub_Stars](https://img.shields.io/github/stars/openprocurement/openprocurement.auction?style=social&color=white)](https://github.com/openprocurement/openprocurement.auction/stargazers)
 * **Focus:** Real-time multi-round electronic reverse auction module.
 * **Tech Stack:** Python, Eventlet, WebSockets, CouchDB.
 * **Capabilities:** Real-time auction module supporting English and Dutch reverse auction formats with dynamic countdown timers, anonymous bidder IDs, and automated winner calculation.
 
-### 10. **[otc-rfq](https://github.com/joaquinbejar/otc-rfq)** [![GitHub stars](https://img.shields.io/github/stars/joaquinbejar/otc-rfq?style=social&color=white)](https://github.com/joaquinbejar/otc-rfq/stargazers)
+### 10. **[otc-rfq](https://github.com/joaquinbejar/otc-rfq)** [![GitHub_Stars](https://img.shields.io/github/stars/joaquinbejar/otc-rfq?style=social&color=white)](https://github.com/joaquinbejar/otc-rfq/stargazers)
 * **Focus:** High-performance Request-for-Quote (RFQ) and quote aggregation engine.
 * **Tech Stack:** Rust, SBE, FIX 4.4, WebSockets, gRPC.
 * **Capabilities:** High-throughput reverse-auction quote aggregation engine featuring sub-millisecond execution, venue connectivity, and deterministic best-price award calculations.
 
-### 11. **[mcp-procurement](https://github.com/zavora-ai/mcp-procurement)** [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)
+### 11. **[mcp-procurement](https://github.com/zavora-ai/mcp-procurement)** [![GitHub_Stars](https://img.shields.io/github/stars/zavora-ai/mcp-procurement?style=social&color=white)](https://github.com/zavora-ai/mcp-procurement/stargazers)
 * **Focus:** Source-to-pay Model Context Protocol (MCP) server for autonomous AI agents.
 * **Tech Stack:** Rust, MCP Protocol.
 * **Capabilities:** Exposes **37 MCP tools** covering RFQ creation (`rfq_create`), side-by-side bid comparison (`rfq_compare`), historical price benchmarking (`price_benchmark`), multi-factor supplier risk scoring (`supplier_risk_score`), and automated negotiation briefing (`negotiation_brief`).
 
-### 12. **[VendSync (BidFlow)](https://github.com/RavalMunjal/VendSync)** [![GitHub stars](https://img.shields.io/github/stars/RavalMunjal/VendSync?style=social&color=white)](https://github.com/RavalMunjal/VendSync/stargazers)
+### 12. **[VendSync (BidFlow)](https://github.com/RavalMunjal/VendSync)** [![GitHub_Stars](https://img.shields.io/github/stars/RavalMunjal/VendSync?style=social&color=white)](https://github.com/RavalMunjal/VendSync/stargazers)
 * **Focus:** Full-stack procurement and vendor management ERP.
 * **Tech Stack:** React, Node.js, Express, MongoDB.
 * **Capabilities:** Vendor portal for independent quote submissions, side-by-side quotation matrices with auto-highlighted lowest bids, approval hierarchies, and automatic conversion from accepted bids to purchase orders.
 
-### 13. **[opentradeintel](https://github.com/b2baitrade-ui/opentradeintel)** [![GitHub stars](https://img.shields.io/github/stars/b2baitrade-ui/opentradeintel?style=social&color=white)](https://github.com/b2baitrade-ui/opentradeintel/stargazers)
+### 13. **[opentradeintel](https://github.com/b2baitrade-ui/opentradeintel)** [![GitHub_Stars](https://img.shields.io/github/stars/b2baitrade-ui/opentradeintel?style=social&color=white)](https://github.com/b2baitrade-ui/opentradeintel/stargazers)
 * **Focus:** B2B sourcing intelligence and tender discovery engine.
 * **Tech Stack:** Python, FastAPI, Typer CLI.
 * **Capabilities:** Harvests European procurement notices from TED Search APIs, transforms notices into normalized tender schemas, and matches them against vendor catalogs using deterministic similarity scoring.
 
-### 14. **[aribaiq](https://github.com/jvasanthada/aribaiq)** [![GitHub stars](https://img.shields.io/github/stars/jvasanthada/aribaiq?style=social&color=white)](https://github.com/jvasanthada/aribaiq/stargazers)
+### 14. **[aribaiq](https://github.com/jvasanthada/aribaiq)** [![GitHub_Stars](https://img.shields.io/github/stars/jvasanthada/aribaiq?style=social&color=white)](https://github.com/jvasanthada/aribaiq/stargazers)
 * **Focus:** Python analytics library for procurement and supplier intelligence.
 * **Tech Stack:** Python, Pandas, NumPy.
 * **Capabilities:** Generates supplier intelligence scorecards (on-time rate, defect rate, ESG performance), category spend concentration analysis, and LLM prompt generation for procurement copilot workflows.
 
-### 15. **[BidForge](https://github.com/tan1ro/BidForge)** [![GitHub stars](https://img.shields.io/github/stars/tan1ro/BidForge?style=social&color=white)](https://github.com/tan1ro/BidForge/stargazers)
+### 15. **[BidForge](https://github.com/tan1ro/BidForge)** [![GitHub_Stars](https://img.shields.io/github/stars/tan1ro/BidForge?style=social&color=white)](https://github.com/tan1ro/BidForge/stargazers)
 * **Focus:** Full-stack RFQ bidding platform with British Auction mechanics.
 * **Tech Stack:** FastAPI, MongoDB, React, Material UI, WebSockets.
 * **Capabilities:** Dynamic time extensions, immutable revision histories, deterministic lowest-bid calculation, and post-closure award workflows.
@@ -193,7 +193,7 @@ Contributions from the procurement and open-source community are warmly welcomed
 2. 🌿 **Create a dedicated branch**: `git checkout -b feature/add-sourcing-platform`.
 3. 📝 **Add or edit entries** in `README.md` keeping formatting consistent:
    - For SaaS: Include company size/valuation, verified starting tier pricing, and explicit free tier/trial limits.
-   - For Open-Source: Include repository link, GitHub star badge linking to `/stargazers`, tech stack, and core capabilities.
+   - For Open-Source: Include repository link, GitHub Stars_Badge linking to `/stargazers`, tech stack, and core capabilities.
 4. 🔍 **Verify links and factual details**.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
